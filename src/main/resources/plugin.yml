@@ -1,0 +1,5 @@
+name: CreeperNoGrief
+version: '${version}'
+main: dev.angelocordon.creepernogrief.CreeperNoGrief
+api-version: '26.3'
+description: Creeper explosions don't break blocks.
